@@ -1,5 +1,5 @@
 <h1 align="center">GM 👋, I am <i>Inwerejosic.</i></h1>
-<h3 align="center">An Engineer from Nigeria, working to build an efficient and sustainble Decentralized world for all.</h3>
+<h3 align="center">An Engineer from Nigeria, working to build an efficient and Sustainble Decentralized world for all.</h3>
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFmZnJyeGU3dTBhM2V6ZXY0NzZiaWhrOHp5dzhqbmltYTZkZjdmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="100"/>
 </div>
@@ -10,7 +10,12 @@
 - 🌱 I’m currently learning **![Solana](https://img.shields.io/badge/Solana-3A0CA3.svg?style=for-the-badge&logo=solana&logoColor=00FFA3)
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vyper](https://img.shields.io/badge/Vyper-2980b9?style=for-the-badge&logo=ethereum&logoColor=white)
-![Axtix](https://img.shields.io/badge/Rust-111000?style=for-the-badge&logo=rust&logoColor=white)![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)**
+![Axtix](https://img.shields.io/badge/Rust-111000?style=for-the-badge&logo=rust&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/inwerejosic)
 
