@@ -5,7 +5,7 @@
 </div>
 
 
-- 🔭 I’m currently working on [PorFolio](https://github.com/inwejosic/profolio/#)
+- 🔭 I’m currently working on [PortFolio](https://github.com/inwejosic/profolio/#)
 
 - 🌱 I’m currently learning **![Solana](https://img.shields.io/badge/Solana-3A0CA3.svg?style=for-the-badge&logo=solana&logoColor=00FFA3)
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -78,5 +78,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inwerejosic&show_icons=true&locale=en" alt="inwerejosic" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inwerejosic&" alt="inwerejosic" /></p>
+
 
 
